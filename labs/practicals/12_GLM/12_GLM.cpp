@@ -101,7 +101,6 @@ int main()
 	quat R = qz * qx * qy;
 	
 	mat4 Ree = mat4_cast(qu);
-	vec3 = 
 
 
 
